@@ -2,16 +2,18 @@ Japanese Emoticons json
 ===================
 
 A Json file including 2190 Japanese Emoticons and 73 categories
+UTF-8
 
 ## Source
 
 This json file was created by scraping this website : https://www.jemoticons.com
 
-## category:
+## Categories:
 
 73 categories with 30 emoticons eatch
-Total : 73x30 = 2190
 
+Total : 73x30 = 2190
+```
 angry                ಠ_ಠ ...
 bad-mood             （￣s￣； ...
 bear                 ・㉨・ ...
@@ -85,3 +87,4 @@ upset                (＾＾；) ...
 vomit                (хдх) ...
 weird                〠_〠 ...
 wink                 ^.~ ...
+```

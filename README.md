@@ -8,7 +8,7 @@ UTF-8
 
 This json file was created by scraping this website : https://www.jemoticons.com
 
-## Categories:
+## Categories
 
 73 categories with 30 emoticons eatch
 
